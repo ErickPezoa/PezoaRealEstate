@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify1ee7fd5383894-staging-182321-authRole",
+      "UnauthRoleArn": "arn:aws:iam::437131501915:role/amplify-amplify1ee7fd5383894-staging-182321-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::437131501915:role/amplify-amplify1ee7fd5383894-staging-182321-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplify1ee7fd5383894-staging-182321-deployment",
+      "UnauthRoleName": "amplify-amplify1ee7fd5383894-staging-182321-unauthRole",
+      "StackName": "amplify-amplify1ee7fd5383894-staging-182321",
+      "StackId": "arn:aws:cloudformation:us-east-1:437131501915:stack/amplify-amplify1ee7fd5383894-staging-182321/66c23c50-f73b-11ed-876f-12582f1880b9",
+      "AmplifyAppId": "dfqrl5485dnyn"
+    },
+    "categories": {
+      "auth": {
+        "pezoarealestate893b719f": {}
+      }
+    }
+  }
+}
